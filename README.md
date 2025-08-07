@@ -14,11 +14,17 @@
 
 <br>
 
-Soy Gabriel Alejandro Zenteno Ramirez, estudiante egresado de la carrera técnica en programación nivel medio con 2 años de estudio en el Liceo Insuco de Valparaíso.
+Soy Gabriel Alejandro Zenteno Ramirez, estudiante egresado de la carrera técnica en programación nivel medio con 2 años de estudio en el Liceo Insuco de Valparaíso, especialisado en ser un programador Full stack que hace paginas y aplicaciones web.
 
+<br>
+<br>
+Certificasiones:Curso de java en el duoc de valparaiso, curso de robotica en la universidad catolica de viña del mar
+<br>
 <br>
 
 Mis debilidades: soy una persona floja.
+
+<br>
 
 <br>
 
